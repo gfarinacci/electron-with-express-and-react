@@ -1,4 +1,4 @@
-# electron-node
+# electron-with-express-and-react
 
 A simple project demonstrating how to spawn an Express app from Electron as well as providing server logs directly in the Electron app using React.
 
